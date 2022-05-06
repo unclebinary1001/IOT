@@ -7,7 +7,7 @@ public class Level1 : MonoBehaviour
 {
     public void loadLevel()
     {
-        SceneManager.LoadScene("Level1");
+        SceneManager.LoadScene("IntroLevel1");
 
     }
     // Start is called before the first frame update
